@@ -181,7 +181,7 @@ a:link {
 
 /* End HTML5 Boilerplate adaptations */
 h1 {
-  font-size: 4.5em;
+  font-size: 3.8em;
 }
 
 h1, .vcenter {
@@ -191,11 +191,11 @@ h1, .vcenter {
   max-height: 100%;
 }
 .csstransforms h1, .csstransforms .vcenter {
-  padding: 0 48px;
+  padding: 0 52px;
   position: absolute;
   left: 0;
   right: 0;
-  top: 50%;
+  top: 60%;
   -webkit-transform: translate(0, -50%);
   -moz-transform: translate(0, -50%);
   -ms-transform: translate(0, -50%);
